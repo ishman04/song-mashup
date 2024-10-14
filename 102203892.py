@@ -124,8 +124,8 @@ def send_email(recipient_email, zip_file_path, singer_name):
         print(f"Error: ZIP file not found at {zip_file_path}")
         return 
     
-    sender_email = "ialagh_be22@thapar.edu" 
-    password = "aoab zqzw yxxb fstw" 
+    sender_email = "ishmanalagh@gmail.com" 
+    password = "oxip jmqu hskv xwya" 
 
     msg = MIMEMultipart()
     msg['From'] = sender_email
